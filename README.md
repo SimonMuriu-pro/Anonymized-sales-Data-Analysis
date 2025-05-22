@@ -1,4 +1,4 @@
-<h1>Anonymized data sales Analysis Project</h1>
+<h1>Anonymized Sales Data Analysis Project</h1>
 
 
 <h2>Description</h2>
