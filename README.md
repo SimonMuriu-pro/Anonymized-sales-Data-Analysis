@@ -37,7 +37,7 @@ Finally, strategic recommendations were made to optimize product strategy, enhan
 
 
 
-<h2>Suggestioons and Recommendations</h2>
+<h2>Suggestions and Recommendations</h2>
 
 - Optimized Inventory for Peak Season (October)
 - Inventory Reduction Strategy for Post-Peak (December)
