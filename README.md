@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project analyzes sales data with strict anonymization protocols to protect customer privacy. Personal identifiers were removed or masked before analysis. The project entails a comprehensive analysis of sales data, focusing on data quality, trends, and customer segmentation to derive actionable insights. The analysis begins with data cleaning and preparation, ensuring accuracy by handling missing values, duplicates, and inconsistent data types. 
+This project analyzes sales data with strict anonymization protocols to enhance data privacy. The project entails a comprehensive analysis of sales data, focusing on data quality, trends, and customer segmentation to derive actionable insights. The analysis begins with data cleaning and preparation, ensuring accuracy by handling missing values, duplicates, and inconsistent data types. 
 Through exploratory data analysis, sales performance was examined across different categories and businesses, supported by visualizations. Advanced techniques, including customer segmentation, forecasting, and anomaly detection, were applied to uncover purchasing patterns and predict future trends.
 
 Finally, strategic recommendations were made to optimize product strategy, enhance customer retention, and improve operational efficiency. A dynamic Power BI dashboard summarizes key findings for better decision-making.
