@@ -22,12 +22,12 @@ Finally, strategic recommendations were made to optimize product strategy, enhan
 - <b>Progrmming: Python</b> 
 - <b>Visualization: Power BI</b>
 
-<h2>Environments Used </h2>
+<h2>4.💻 Environments Used </h2>
 
 - <b>Notebook: Google Colab</b>
 - <b>BI Tools: Ms Power Bi</b> 
 
-<h2>4. 🛠️ Python Libaries Used</h2>
+<h2>5. 🛠️ Python Libaries Used</h2>
 
 - <b>pandas</b>
 - <b>numpy</b>
@@ -37,18 +37,18 @@ Finally, strategic recommendations were made to optimize product strategy, enhan
 
 
 
-<h2>5.📚  Suggestions and Recommendations</h2>
+<h2>6.📚  Suggestions and Recommendations</h2>
 
 - Optimized Inventory for Peak Season (October)
 - Inventory Reduction Strategy for Post-Peak (December)
 - Addressing February Lows
 - General Supply Chain Enhancements
 
-<h2>6.📊  Power BI Dashbord</h2>
+<h2>7.📊  Power BI Dashbord</h2>
 
 <img src="https://i.imgur.com/9IW3N13.png" alt=" Anonymized Sales Performance Dashboard" width="600"/>
 
-<h2>7. 👤 Author / Contact </h2>
+<h2>8. 👤 Author / Contact </h2>
 
 <b>Simon Muriu</b> 
 <b>Data Analyst</b>  
