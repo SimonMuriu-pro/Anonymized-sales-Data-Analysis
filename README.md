@@ -1,13 +1,13 @@
-<h1>Anonymized Sales Data Analysis Project</h1>
+<h1> 🚀 Anonymized Sales Data Analysis Project</h1>
 
 
-<h2>Description</h2>
+<h2>1. 📄 Description</h2>
 This project analyzes sales data with strict anonymization protocols to enhance data privacy. The project entails a comprehensive analysis of sales data, focusing on data quality, trends, and customer segmentation to derive actionable insights. The analysis begins with data cleaning and preparation, ensuring accuracy by handling missing values, duplicates, and inconsistent data types. 
 Through exploratory data analysis, sales performance was examined across different categories and businesses, supported by visualizations. Advanced techniques, including customer segmentation, forecasting, and anomaly detection, were applied to uncover purchasing patterns and predict future trends.
 
 Finally, strategic recommendations were made to optimize product strategy, enhance customer retention, and improve operational efficiency. A dynamic Power BI dashboard summarizes key findings for better decision-making.
 
-<h2> Key Features </h2>
+<h2>2. 📥  Key Features </h2>
 
 - Data Cleaning & Preparation: Handling missing values, duplicates, and inconsistent data types to ensure data accuracy.
 - Feature Engineering: Creating new variables such as “Month-Year” to facilitate trend analysis.
@@ -17,7 +17,7 @@ Finally, strategic recommendations were made to optimize product strategy, enhan
 - Interactive Dashboard: Power BI dashboard summarizing insights for effective stakeholder communication.
 
 
-<h2>Languages and Tools Used</h2>
+<h2>3.🧪 Languages and Tools Used</h2>
 
 - <b>Progrmming: Python</b> 
 - <b>Visualization: Power BI</b>
@@ -27,7 +27,7 @@ Finally, strategic recommendations were made to optimize product strategy, enhan
 - <b>Notebook: Google Colab</b>
 - <b>BI Tools: Ms Power Bi</b> 
 
-<h2>Python Libaries Used</h2>
+<h2>4. 🛠️ Python Libaries Used</h2>
 
 - <b>pandas</b>
 - <b>numpy</b>
@@ -37,16 +37,23 @@ Finally, strategic recommendations were made to optimize product strategy, enhan
 
 
 
-<h2>Suggestions and Recommendations</h2>
+<h2>5.📚  Suggestions and Recommendations</h2>
 
 - Optimized Inventory for Peak Season (October)
 - Inventory Reduction Strategy for Post-Peak (December)
 - Addressing February Lows
 - General Supply Chain Enhancements
 
-<h2>Power BI Dashbord</h2>
+<h2>6.📊  Power BI Dashbord</h2>
 
 <img src="https://i.imgur.com/9IW3N13.png" alt=" Anonymized Sales Performance Dashboard" width="600"/>
+
+<h2>7. 👤 Author / Contact </h2>
+
+<b>Simon Muriu</b> 
+<b>Data Analyst</b>  
+[LinkedIn](https://www.linkedin.com/in/simon-muriu-0a1310251/) | 
+[Email](mailto:smuriu06@gmail.com)
 
 
 <!--
